@@ -1,0 +1,20 @@
+.color{
+  background-color: springgreen;
+}
+
+.my-height{
+  height: 200px;
+}
+
+.input-length{
+  width: 100%;
+}
+.sbt-button{
+  position: relative;
+  top: 25px;
+  left: 39%;
+}
+
+.list-color{
+  background-color: ivory; 
+}
